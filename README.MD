@@ -5,3 +5,8 @@
   * life is hard 
 * Study
 * Exercise
+
+## ordered list 
+1. what is this? 
+2. what? 
+3. hmm 
