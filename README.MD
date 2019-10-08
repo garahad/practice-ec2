@@ -47,5 +47,10 @@ Content column 1 | Content column 2
 - [x] list syntax required (any unordered or ordered list supported)
 
 
+GitHub supports emoji! 
+:+1: :sparkles: :camel: :tada: 
+:rocket: :metal: :octocat:
+
+
 
 
