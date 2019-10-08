@@ -26,7 +26,7 @@ __This will also be bold__
 
 *You **can** combine them*
 
---i want to cancel --
+~~i want to cancel~~
 
 As Grace Hopper said: 
 
