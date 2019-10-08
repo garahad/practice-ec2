@@ -13,7 +13,7 @@
 
 ***
 
-++strong++
+<ins>strong</ins>
 
 [Google](http://google.com)
 
