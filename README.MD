@@ -14,3 +14,5 @@
 ***
 
 ++strong++
+
+[Google](http://google.com)
